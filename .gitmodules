@@ -1,0 +1,6 @@
+[submodule "modeling"]
+	path = modeling
+	url = ./modeling
+[submodule "clean-room-tool"]
+	path = clean-room-tool
+	url = ./clean-room-tool
