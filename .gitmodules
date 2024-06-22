@@ -1,0 +1,6 @@
+[submodule "data-clean-room"]
+	path = data-clean-room
+	url = https://github.com/Amazing-Team-Name/data-clean-room
+[submodule "data-modeling"]
+	path = data-modeling
+	url = https://github.com/Amazing-Team-Name/data-modeling
